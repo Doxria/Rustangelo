@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\Rustangelo\Rustangelo\bin\Debug\Rustangelo.exe.config
+C:\Users\root\Desktop\Rustangelo\Rustangelo\bin\Debug\Rustangelo.exe
+C:\Users\root\Desktop\Rustangelo\Rustangelo\bin\Debug\Rustangelo.pdb
+C:\Users\root\Desktop\Rustangelo\Rustangelo\obj\Debug\Rustangelo.csprojAssemblyReference.cache
+C:\Users\root\Desktop\Rustangelo\Rustangelo\obj\Debug\Rustangelo.Menu.resources
+C:\Users\root\Desktop\Rustangelo\Rustangelo\obj\Debug\Rustangelo.Properties.Resources.resources
+C:\Users\root\Desktop\Rustangelo\Rustangelo\obj\Debug\Rustangelo.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Rustangelo\Rustangelo\obj\Debug\Rustangelo.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Rustangelo\Rustangelo\obj\Debug\Rustangelo.exe
+C:\Users\root\Desktop\Rustangelo\Rustangelo\obj\Debug\Rustangelo.pdb
+C:\Users\root\Desktop\Rustangelo\Build\Rustangelo.exe.config
+C:\Users\root\Desktop\Rustangelo\Build\Rustangelo.exe
+C:\Users\root\Desktop\Rustangelo\Build\Rustangelo.pdb
